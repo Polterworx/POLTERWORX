@@ -1,5 +1,6 @@
 # What is POLTERWORX?
-POLTERWORX is a Cryptid add-on create by Jen Walter and the community, it was originally called Jen's Almanac.(Yes, this is that OC mod you've been hearing about everywhere.)
+POLTERWORX is a Cryptid add-on create by Jen Walter and the community, it was originally called Jen's Almanac.
+(Yes, this is that OC mod you've been hearing about everywhere.)
 # FAQ
 ## Q: Are there any mods needed alongside POLTERWORX for it to function?
 ### A: The main dependencies needed for POLTERWORX are JenLib, Incantation and Cryptid, however Nopeus, Aurinko and Loop are recommended for a more stable experience.
